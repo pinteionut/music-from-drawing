@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#canvas-container {
+  width: 100%;
+  text-align: center;
+}
+
+#canvas {
+  border: 1px solid;
+  margin: 10px auto;
+}
